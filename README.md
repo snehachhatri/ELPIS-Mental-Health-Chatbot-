@@ -98,3 +98,8 @@ Elpis is **not a licensed therapist or medical professional** and cannot diagnos
 ## 📄 License
 
 This project is open for personal and educational use. Feel free to fork and build on it.
+
+## 👩‍💻 Author
+**Sneha Chhatri**
+Cybersecurity Enthusiast | Final Year Student
+[GitHub](https://github.com/snehachhatri) • [LinkedIn](https://www.linkedin.com/in/sneha-chhatri-0ab424405/)
